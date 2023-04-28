@@ -12,8 +12,7 @@
 <h3 align="left">Minhas redes:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fesosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fesosa" height="30" width="40" /></a>
-<a href="https://instagram.com/_feelipz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_feelipz" height="30" width="40" /></a>
-<a href="https://discord.gg/6237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6237" height="30" width="40" /></a>
+<a href="https://instagram.com/felipe.jsx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_feelipz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
