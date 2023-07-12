@@ -5,7 +5,7 @@
 
 - 👀 Estou de olho em aprender **AWS e C#**
 
-- 👨‍💻 Meu portfólio [https://portfolio-fb.vercel.app](https://portfolio-fb.vercel.app)
+- 👨‍💻 Meu portfólio **<a href="https://portfolio-fb.vercel.app" target="_blank">Aqui</a>**
 
 - 📫 Meu contato **felipesouzasalles@gmail.com**
 
@@ -22,5 +22,6 @@
 [![My Skills](https://skillicons.dev/icons?i=react,next,ts,js,html,css,tailwind,sass,nodejs,firebase,kotlin,py,ps,pr,ae,excel&perline=6)](https://skillicons.dev)
 
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=fesosa&show_icons=true&theme=dracula&locale=en&layout=compact" alt="fesosa" /></p>
+
 
 
