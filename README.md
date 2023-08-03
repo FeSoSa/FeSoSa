@@ -1,7 +1,7 @@
 <h1 align="center">Ola 👋, Eu sou Felipe</h1>
 <h3 align="center">Desenvolvedor Front-End</h3>
 
-- 🌱 Estou atualmente aprendendo **NextJS**
+- 🌱 Estou atualmente aprendendo **Jest e Wordpress**
 
 - 👀 Estou de olho em aprender **AWS e C#**
 
