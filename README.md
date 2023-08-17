@@ -1,9 +1,9 @@
 <h1 align="center">Ola 👋, Eu sou Felipe</h1>
 <h3 align="center">Desenvolvedor Front-End</h3>
 
-- 🌱 Estou atualmente aprendendo **Jest e Wordpress**
+- 🌱 Estou atualmente aprendendo **Jest e C#**
 
-- 👀 Estou de olho em aprender **AWS e C#**
+- 👀 Estou de olho em aprender **AWS e .ASP**
 
 - 👨‍💻 Meu portfólio **<a href="https://portfolio-fb.vercel.app" target="_blank">Aqui</a>**
 
