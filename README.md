@@ -1,9 +1,9 @@
 <h1 align="center">Ola 👋, Eu sou Felipe</h1>
-<h3 align="center">Desenvolvedor Front-End</h3>
+<h3 align="center">Desenvolvedor Full-Stack</h3>
 
-- 🌱 Estou atualmente aprendendo **C# e Angular**
+- 🌱 Estou atualmente aprendendo **Kotlin e Angular**
 
-- 👀 Estou de olho em aprender **AWS e .ASP**
+- 👀 Estou de olho em aprender **AWS**
 
 - 👨‍💻 Meu portfólio **<a href="https://portfolio-fb.vercel.app" target="_blank">Aqui</a>**
 
