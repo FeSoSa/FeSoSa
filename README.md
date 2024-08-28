@@ -1,7 +1,7 @@
 <h1 align="center">Ola 👋, Eu sou Felipe</h1>
 <h3 align="center">Desenvolvedor Full-Stack</h3>
 
-- 🌱 Estou atualmente aprendendo **Kotlin e Angular**
+- 🌱 Estou atualmente aprendendo **Unity**
 
 - 👀 Estou de olho em aprender **AWS**
 
