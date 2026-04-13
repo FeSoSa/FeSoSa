@@ -5,7 +5,7 @@
 
 - 👀 Estou de olho em aprender **AWS**
 
-- 👨‍💻 Meu portfólio **<a href="https://portfolio-fb.vercel.app" target="_blank">Aqui</a>**
+- 👨‍💻 Meu portfólio **<a href="https://www.sosa.software" target="_blank">Aqui</a>**
 
 - 📫 Meu contato **fesosa.work@gmail.com**
 
