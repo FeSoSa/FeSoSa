@@ -28,13 +28,13 @@
 
 ### 🧰 Stack
 
-**Backend**
+**Backend**<br>
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,spring,postgres,redis&perline=6)](https://skillicons.dev)
 
-**Frontend**
+**Frontend**<br>
 [![My Skills](https://skillicons.dev/icons?i=react,next,angular,ts,js,html,css,tailwind,sass&perline=6)](https://skillicons.dev)
 
-**Outras ferramentas**
+**Outras ferramentas**<br>
 [![My Skills](https://skillicons.dev/icons?i=firebase,docker,ps,pr,ae&perline=6)](https://skillicons.dev)
 
 <br>
@@ -42,14 +42,21 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=fesosa&show_icons=true&theme=dracula&locale=en&layout=compact" alt="fesosa" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=fesosa&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Top Languages" height="165" />
+  <img src="https://streak-stats.demolab.com?user=fesosa&theme=dracula&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
 <br>
 
-### 📫 Vamos conversar
+<p align="center">
+  <a href="https://www.sosa.software" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-sosa.software-FF7A00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" />
+  </a>
+  <a href="mailto:fesosa.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-fesosa.work@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 <p align="center">
-  <a href="https://www.sosa.software" target="_blank">Portfólio</a> ·
-  <a href="mailto:fesosa.work@gmail.com">fesosa.work@gmail.com</a>
+  <img src="https://komarev.com/ghpvc/?username=fesosa&style=for-the-badge&color=FF7A00" alt="Profile Views" />
 </p>
