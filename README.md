@@ -21,7 +21,7 @@
 
 ### 💼 Projeto em destaque
 
-**[Quartzo](https://www.sosa.software)** - SaaS multi-tenant para clínicas odontológicas, construído do zero: arquitetura, backend, frontend, billing e infraestrutura.
+**[Quartzo](https://www.quartzoapp.com)** - SaaS multi-tenant para clínicas odontológicas, construído do zero: arquitetura, backend, frontend, billing e infraestrutura.
 `Next.js` `Kotlin/Spring Boot` `PostgreSQL` `Redis` `Cloudflare R2` `Asaas`
 
 <br>
